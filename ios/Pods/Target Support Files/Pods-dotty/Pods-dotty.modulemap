@@ -1,0 +1,6 @@
+module Pods_dotty {
+  umbrella header "Pods-dotty-umbrella.h"
+
+  export *
+  module * { export * }
+}

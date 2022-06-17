@@ -1,0 +1,6 @@
+module Pods_dotty_dottyTests {
+  umbrella header "Pods-dotty-dottyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
